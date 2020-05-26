@@ -1,4 +1,4 @@
-# Python with Jupyter Notebook-Tutorial-for-Beginners
+# Python tutorial using Jupyter Notebook-for-Beginners
 Beginners Guide to Jupyter notebook and Python
 Order of reading
 1.Getting started with IPython-This discusses about about basic operations in python and how to code in jupyter notebook.
